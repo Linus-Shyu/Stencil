@@ -93,7 +93,7 @@ template<class T> void print(T x,char ed = '\n') {
 
 void solve()
 {
-  /*Start Your Show Linus Shyu */
+  /* Start Your Show Linus Shyu */
 
   //int small_number_count = ;
   //double small_number = ;
